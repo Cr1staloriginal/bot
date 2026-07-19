@@ -10,7 +10,6 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from univk import API
 
 # ================== НАСТРОЙКИ ==================
-TELEGRAM_TOKEN = "8838275413:AAED4QN9xjmLOZn_u48uFt_tUXBvU_r4fkw"
 # ===============================================
 
 logging.basicConfig(level=logging.INFO)
